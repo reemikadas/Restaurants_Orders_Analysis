@@ -185,3 +185,15 @@ restaurant-orders-sql/
 ## Acknowledgements
 
 Dataset provided by [Maven Analytics](https://mavenanalytics.io/data-playground) as part of their free data playground resources.
+
+---
+
+## Author
+
+**Reemika Subrata Das**
+
+- GitHub: [@reemikadas](https://github.com/reemikadas)
+- LinkedIn: [linkedin.com/in/reemikadas](https://www.linkedin.com/in/reemikadas)
+- Email: das.reemika@gmail.com
+
+---
